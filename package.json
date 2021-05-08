@@ -1,0 +1,17 @@
+{
+  "name": "wwo-selfbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Nulled",
+  "license": "ISC",
+  "dependencies": {
+    "arcwrapper": "*",
+    "fs": "0.0.1-security",
+    "socket.io-client": "^2.0.0",
+    "wwauth": "*"
+  },
+  "description": "Selfbot for the game werewolf online or wolvesville"
+}
