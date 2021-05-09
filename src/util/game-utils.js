@@ -2,7 +2,7 @@ const ChatUtils = require('./chat-utils')
 
 module.exports = class GameUtils {
     static showEmoji(id) {
-        process.vars.gameSocket.emit('show-emoji', JSON.stringify({
+        process.vars.socket.emit('show-emoji', JSON.stringify({
             emojiId: id
         }))
     }
