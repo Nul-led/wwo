@@ -1,10 +1,10 @@
 # WWO-Selfbot a Selfbot for Werewolf Online (Wolvesville)
 
 ### Installation / Usage
-##### Requirements:
+Requirements:
 - Node.js installed
 - Git installed (optional)
-##### Tutorial:
+Tutorial:
 1. Clone repo or download as zip and unzip it 
 2. Set up configuration (./config)
 3. ``npm install``to install all needed modules
@@ -12,7 +12,7 @@
 5. Image join the opened friend game in your invitations (should be from your own account)
 
 ##### Configuration (./config)
-###### 1. "config.json"
+1. "config.json":
 - prefix: prefix used before commands, should not include two or more spaces
 - addOwnerToPermittedUsersByDefault: lets the bot owner (you) use restricted commands (permissions.json)
 - replicateEmojisFromOtherUsers: copy emojis used ingame (other users)
@@ -23,10 +23,10 @@
 - defaultGameMode: default game mode of the lobby (custom is not supported!!!)
 - exitOnGameIdError: sometimes the bot does not receive a gameId, this option determines wether the bot should exit the process or open a new lobby which you can the join again
 - logging: toggles logging for different events (command usage is always logged)
-###### 2. "credentials.json"
+2. "credentials.json":
 - only accounts using email and password authentication method are supported
 - OAuth Support (Google etc) may come soon
-###### 3. "permissions.json"
+3. "permissions.json":
 - publicCmds: Commands that are available to others (and you too)
 - restrictedCmds: Commands that are only available to permitted users
 - disabledCmds: Disabled Commands that no one is able to use
