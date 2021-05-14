@@ -49,6 +49,8 @@ module.exports = class GameHandler {
     }
     static roseReceived(data, type) {
         if(!process.vars.config.logging.rosesForYou) return
+        if(process.vars.config.autoTradeRoses && data.fromPlayerId !== process.vars.player.id)
+            GameUtils.sendRoses(data.amount, data.fromPlayerId)
         switch(type) {
             case 'rfa':
                 console.log(`Player ${PlayerUtils.getPlayerUsernameById(data.fromPlayerId)} has sent everyone ${data.amount} rose(s)`)
