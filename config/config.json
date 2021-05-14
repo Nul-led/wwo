@@ -8,6 +8,7 @@
     "lobbyTimeoutForOwnerJoin": 60000,
     "defaultGameMode": "en",
     "exitOnGameIdError": false,
+    "autoTradeRoses": false,
     "logging": {
         "chat": true,
         "emojis": true,
