@@ -7,9 +7,9 @@ Requirements:
 Tutorial:
 1. Clone repo or download as zip and unzip it 
 2. Set up configuration (./config)
-3. ``npm install``to install all needed modules
-4. ``npm start `` or ``node index.js`` in terminal / console
-5. Image join the opened friend game in your invitations (should be from your own account)
+3. ``npm install`` to install all needed modules
+4. ``npm start`` or ``node index.js`` in terminal / console
+5. Join the open invitation you should be able to see in your main account's invitations
 
 ##### Configuration (./config)
 1. "config.json":
