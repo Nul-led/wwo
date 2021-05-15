@@ -1,0 +1,13 @@
+
+{
+    "endpoints": {
+        "sign_in": "https://identitytoolkit.googleapis.com/v1/accounts:signInWithPassword",
+        "refresh_token": "https://securetoken.googleapis.com/v1/token",
+        "sign_up": "https://identitytoolkit.googleapis.com/v1/accounts:signUp",
+        "update_account": "https://identitytoolkit.googleapis.com/v1/accounts:update",
+        "delete_account": "https://identitytoolkit.googleapis.com/v1/accounts:delete"
+    },
+    "package": "com.werewolfapps.online",
+    "sha-1": "02C4C03CA97AD19FE8AD40D3403469686074371E",
+    "apiKey": "AIzaSyCnaRWq8fpq7GBJwOO4-twmmMyrWDOD8M8"
+}
