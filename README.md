@@ -22,6 +22,7 @@ Tutorial:
 - lobbyTimeoutForOwnerJoin: (milliseconds) opens a new lobby if the bot owner has not joined util then
 - defaultGameMode: default game mode of the lobby (custom is not supported!!!)
 - exitOnGameIdError: sometimes the bot does not receive a gameId, this option determines wether the bot should exit the process or open a new lobby which you can the join again
+- autoTradeRoses: sends a rose back if you receive one from another player
 - logging: toggles logging for different events (command usage is always logged)
 2. "credentials.json":
 - only accounts using email and password authentication method are supported
