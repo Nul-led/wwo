@@ -28,7 +28,7 @@ module.exports = class Handler {
         throw new Error('Error user banned')
     }
     static apiError(data) {
-        console.warn(`Api responded with an error: \n ${data}`)
+        console.warn(`Api responded with an error: \n ${JSON.stringify(data)}`)
     }
     static gameSettings(data) {
         process.vars.gameSettings = data
