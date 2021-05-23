@@ -1,5 +1,5 @@
 const fetch = require('node-fetch')
-const core = Buffer.from('aHR0cHM6Ly9hcGktY29yZS53ZXJld29sZi1hcHBzLmNvbS8=', 'base64').toString()
+const core = 'https://api-core.werewolf-apps.com'
 
 const removeScheduleDeleteAccount = async ({
     accessToken
