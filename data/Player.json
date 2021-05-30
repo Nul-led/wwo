@@ -1,0 +1,282 @@
+{
+    "id": "",
+    "username": "",
+    "level": 0,
+    "xpTotal": 0,
+    "xpUntilNextLevel": 0,
+    "playerStats": {
+        "finishedGamesCount": 0,
+        "totalPlayTimeInMinutes": 0,
+        "exitGameBySuicideCount": 0,
+        "exitGameAfterDeathCount": 0,
+        "gamesSurvivedCount": 0,
+        "gamesKilledCount": 0,
+        "roleStats": {
+            "sorcerer": {
+                "winCount": 0,
+                "loseCount": 0
+            },
+            "seer-apprentice": {
+                "winCount": 0,
+                "loseCount": 0
+            },
+            "werewolf": {
+                "winCount": 0,
+                "loseCount": 0
+            },
+            "sect-member": {
+                "winCount": 0,
+                "loseCount": 0
+            },
+            "cursed-human": {
+                "winCount": 0,
+                "loseCount": 0
+            },
+            "harlot": {
+                "winCount": 0,
+                "loseCount": 0
+            },
+            "flower-child": {
+                "winCount": 0,
+                "loseCount": 0
+            },
+            "spirit-seer": {
+                "winCount": 0,
+                "loseCount": 0
+            },
+            "alchemist": {
+                "winCount": 0,
+                "loseCount": 0
+            },
+            "grave-robber": {
+                "winCount": 0,
+                "loseCount": 0
+            },
+            "mayor": {
+                "winCount": 0,
+                "loseCount": 0
+            },
+            "kitten-wolf": {
+                "winCount": 0,
+                "loseCount": 0
+            },
+            "loudmouth": {
+                "winCount": 0,
+                "loseCount": 0
+            },
+            "lovers": {
+                "winCount": 0,
+                "loseCount": 0
+            },
+            "avenger": {
+                "winCount": 0,
+                "loseCount": 0
+            },
+            "jailer": {
+                "winCount": 0,
+                "loseCount": 0
+            },
+            "detective": {
+                "winCount": 0,
+                "loseCount": 0
+            },
+            "illusionist": {
+                "winCount": 0,
+                "loseCount": 0
+            },
+            "forger": {
+                "winCount": 0,
+                "loseCount": 0
+            },
+            "grumpy-grandma": {
+                "winCount": 0,
+                "loseCount": 0
+            },
+            "aura-seer": {
+                "winCount": 0,
+                "loseCount": 0
+            },
+            "gunner": {
+                "winCount": 0,
+                "loseCount": 0
+            },
+            "accomplice": {
+                "winCount": 0,
+                "loseCount": 0
+            },
+            "beast-hunter": {
+                "winCount": 0,
+                "loseCount": 0
+            },
+            "bomber": {
+                "winCount": 0,
+                "loseCount": 0
+            },
+            "tough-guy": {
+                "winCount": 0,
+                "loseCount": 0
+            },
+            "seer": {
+                "winCount": 0,
+                "loseCount": 0
+            },
+            "wolf-pacifist": {
+                "winCount": 0,
+                "loseCount": 0
+            },
+            "medium": {
+                "winCount": 0,
+                "loseCount": 0
+            },
+            "wolf-seer": {
+                "winCount": 0,
+                "loseCount": 0
+            },
+            "arsonist": {
+                "winCount": 0,
+                "loseCount": 0
+            },
+            "fortune-teller": {
+                "winCount": 0,
+                "loseCount": 0
+            },
+            "sheriff": {
+                "winCount": 0,
+                "loseCount": 0
+            },
+            "santa": {
+                "winCount": 0,
+                "loseCount": 0
+            },
+            "headhunter": {
+                "winCount": 0,
+                "loseCount": 0
+            },
+            "wolf-shaman": {
+                "winCount": 0,
+                "loseCount": 0
+            },
+            "shadow-wolf": {
+                "winCount": 0,
+                "loseCount": 0
+            },
+            "fool": {
+                "winCount": 0,
+                "loseCount": 0
+            },
+            "zombie": {
+                "winCount": 0,
+                "loseCount": 0
+            },
+            "split-wolf": {
+                "winCount": 0,
+                "loseCount": 0
+            },
+            "serial-killer": {
+                "winCount": 0,
+                "loseCount": 0
+            },
+            "pacifist": {
+                "winCount": 0,
+                "loseCount": 0
+            },
+            "junior-werewolf": {
+                "winCount": 0,
+                "loseCount": 0
+            },
+            "easter-bunny": {
+                "winCount": 0,
+                "loseCount": 0
+            },
+            "bodyguard": {
+                "winCount": 0,
+                "loseCount": 0
+            },
+            "villager": {
+                "winCount": 0,
+                "loseCount": 0
+            },
+            "bandit": {
+                "winCount": 0,
+                "loseCount": 0
+            },
+            "sect-leader": {
+                "winCount": 0,
+                "loseCount": 0
+            },
+            "cannibal": {
+                "winCount": 0,
+                "loseCount": 0
+            },
+            "priest": {
+                "winCount": 0,
+                "loseCount": 0
+            },
+            "marksman": {
+                "winCount": 0,
+                "loseCount": 0
+            },
+            "doctor": {
+                "winCount": 0,
+                "loseCount": 0
+            },
+            "cupid": {
+                "winCount": 0,
+                "loseCount": 0
+            },
+            "guardian-wolf": {
+                "winCount": 0,
+                "loseCount": 0
+            },
+            "nightmare-werewolf": {
+                "winCount": 0,
+                "loseCount": 0
+            },
+            "witch": {
+                "winCount": 0,
+                "loseCount": 0
+            },
+            "corruptor": {
+                "winCount": 0,
+                "loseCount": 0
+            },
+            "alpha-werewolf": {
+                "winCount": 0,
+                "loseCount": 0
+            },
+            "president": {
+                "winCount": 0,
+                "loseCount": 0
+            },
+            "werewolf-berserk": {
+                "winCount": 0,
+                "loseCount": 0
+            }
+        }
+    },
+    "bannedCount": 0,
+    "watchedVideoAdsCount": 0,
+    "creationTime": "ISO 8601",
+    "lastOnline": "ISO 8601",
+    "seasonSkill": 0,
+    "seasonMaxSkill": 0,
+    "seasonPlayedCount": 0,
+    "seasonBestRank": 0,
+    "receivedRoses": 0,
+    "sentRoses": 0,
+    "lastVideoAdWatched": "ISO 8601",
+    "equippedProfileIconId": "",
+    "equippedProfileIconColor": "#000000",
+    "equippedBackgroundId": "",
+    "equippedLoadingScreenId": "",
+    "clanTag": "",
+    "personalMsg": "",
+    "adRewardTime": "ISO 8601",
+    "adRewardCount": 0,
+    "playerStatus": "",
+    "noClanInvite": false,
+    "hideClanTag": false,
+    "hideBadges": false,
+    "notificationsDisabledClanChat": false,
+    "notificationsDisabledClanActions": false
+}
