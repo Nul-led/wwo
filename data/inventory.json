@@ -1,0 +1,20 @@
+{
+    "silverCount": 0,
+    "gemCount": 0,
+    "roseCount": 0,
+    "loyaltyTokenCount": 0,
+    "avatarItemIds": [""],
+    "lootBoxIds": [""],
+    "lootBoxes": [""],
+    "ownedTalismans": [""],
+    "ownedRosePackages": [{
+        "rosePackageId": "",
+        "count": 0
+    }],
+    "ownedProfileIcons": [{
+        "profileIconId": ""
+    }],
+    "ownedEmojis": [""],
+    "ownedBackgroundIds": [""],
+    "ownedLoadingScreenIds": [""]
+}
