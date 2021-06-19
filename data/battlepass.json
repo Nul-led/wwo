@@ -1,0 +1,46 @@
+{
+    "battlePassSeason": {
+        "startTime": "ISO 8601",
+        "number": 0,
+        "durationInDays": 0,
+        "goldPrice": 0,
+        "goldPricePerReward": 0,
+        "xpPerReward": 0,
+        "rewards": [{
+            "type": "AVATAR_ITEM",
+            "amount": 0,
+            "avatarItemId": ""
+        }, {
+            "type": "GOLD",
+            "amount": 0
+        }, {
+            "type": "ROSE_PACKAGE",
+            "amount": 0,
+            "rosePackageId": ""
+        }, {
+            "type": "LOOT_BOX",
+            "amount": 0
+        },  {
+            "type": "LOADING_SCREEN",
+            "amount": 0,
+            "loadingScreenId": ""
+        }, {
+            "type": "EMOJI",
+            "amount": 0,
+            "emojiId": ""
+        }, {
+            "type": "GEM",
+            "amount": 0
+        }, {
+            "type": "PROFILE_ICON",
+            "amount": 0,
+            "profileIconId": ""
+        },],
+        "iconName": "bp{seasonNumber}",
+        "seasonBackgroundId": ""
+    },
+    "battlePass": {
+        "xp": 0,
+        "claimed": false
+    }
+}
