@@ -1,0 +1,37 @@
+{
+    "clan": {
+        "id": "",
+        "creationTime": "ISO 8601",
+        "name": "",
+        "description": "",
+        "coLeaderDescription": "",
+        "memberDescription": "",
+        "xp": 0,
+        "language": "",
+        "icon": "",
+        "iconColor": "",
+        "tag": "",
+        "joinType": "",
+        "leaderId": "",
+        "gold": 0,
+        "gems": 0,
+        "questHistoryCount": 0,
+        "minLevel": 0,
+        "memberCount": 0
+    },
+    "members": [{
+        "playerId": "",
+        "joinMessage": "",
+        "creationTime": "ISO 8601",
+        "xp": 0,
+        "status": "",
+        "username": "",
+        "level": 0,
+        "lastOnline": "ISO 8601",
+        "profileIconId": "",
+        "profileIconColor": "",
+        "participateInClanQuests": false,
+        "playerStatus": "",
+        "coLeader": false
+    }]
+}
