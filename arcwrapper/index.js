@@ -3,7 +3,7 @@ const core = 'https://api-core.wolvesville.com'
 
 module.exports = class WolvesvilleCoreAPI {
 
-  removeScheduleDeleteAccount = async ({
+  static removeScheduleDeleteAccount = async ({
       accessToken
   }) => {
       const res = await fetch(core + '/players/self/delete', {
