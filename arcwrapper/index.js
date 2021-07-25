@@ -1523,7 +1523,7 @@ module.exports = class WolvesvilleCoreAPI {
       return await res.json()
   }
 
-  static  markAsOnline = async ({
+  static markAsOnline = async ({
       accessToken
   }) => {
       const res = await fetch(core + '/players/online', {
@@ -1532,10 +1532,10 @@ module.exports = class WolvesvilleCoreAPI {
               'authorization': `Bearer ${accessToken}`
           },
       })
-      return await res.text()
+      return;
   }
 
-  static  sendRedeemCode = async ({
+  static sendRedeemCode = async ({
       accessToken,
       code
   }) => {
@@ -1552,7 +1552,7 @@ module.exports = class WolvesvilleCoreAPI {
       return await res.json()
   }
 
-  static  claimDailyReward = async ({
+  static claimDailyReward = async ({
       accessToken
   }) => {
       const res = await fetch(core + '/dailyRewards', {
@@ -1564,7 +1564,7 @@ module.exports = class WolvesvilleCoreAPI {
       return await res.json()
   }
 
-  static  savePersonalMsg = async ({
+  static savePersonalMsg = async ({
       accessToken,
       msg
   }) => {
