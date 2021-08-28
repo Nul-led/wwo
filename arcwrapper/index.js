@@ -515,10 +515,9 @@ module.exports = class WolvesvilleCoreAPI {
   }
 
   static getClanChat = async ({
-      accessToken,
-      page
+      accessToken
   }) => {
-      const res = await fetch(core + '/clans/chat?page=' + page, {
+      const res = await fetch(core + '/clans/chat', {
           method: 'GET',
           headers: {
               'authorization': `Bearer ${accessToken}`
